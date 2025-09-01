@@ -20,6 +20,7 @@ BIFocus est une application de productivité basée sur la technique Pomodoro po
 ## 🖼️ Captures d'écran
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 3](screenshots/screenshot3.png)
 
 ## 🔧 Installation
 1. Téléchargez l'APK ci-dessus
@@ -30,4 +31,4 @@ BIFocus est une application de productivité basée sur la technique Pomodoro po
 Email : bouchareb.learning@google.com
 
 ---
-*© 2023 BESMAINFO - Tous droits réservés*# BIFocus-Releases
+*© 2023 BESMAINFO - Tous droits réservés*
